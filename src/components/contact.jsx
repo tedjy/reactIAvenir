@@ -21,7 +21,7 @@ export const Contact = (props) => {
     e.preventDefault();
     console.log(name, email, message);
     emailjs
-      .sendForm("service_gtu7foi", "service_gtu7foi", e.target, "ey7n1XVRK6bH-gM4K")
+      .sendForm("service_gtu7foi", "ejs-test-mail-service__", e.target, "ey7n1XVRK6bH-gM4K")
       .then(
         (result) => {
           console.log("Message envoyé : ",result.text);
