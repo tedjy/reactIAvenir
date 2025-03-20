@@ -1,0 +1,169 @@
+{
+  "Header": {
+    "title": "IAvenir",
+    "paragraph": "Parce qu’un bon choix peut tout changer."
+  },
+  "About": {
+    "paragraph": "Nous sommes une équipe passionnée d'experts en éducation, en technologie et en développement personnel, dédiée à faciliter l'orientation scolaire des élèves et étudiants. Notre mission est de rendre l'accès à l'information sur les parcours scolaires et professionnels plus simple, personnalisé et accessible pour tous.Grâce à notre chatbot intelligent, nos outils interactifs comme le quiz d'orientation et nos partenariats avec des recruteurs, nous offrons une solution complète pour accompagner chaque utilisateur dans ses choix d'orientation, en l'aidant à prendre des décisions éclairées pour son avenir. Nous croyons qu'une orientation réussie est la clé d'un parcours épanoui et réussi.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/ProgrammeKESKIA.jpg",
+      "smallImage": "img/portfolio/ProgrammeKESKIA.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/rush.jpeg",
+      "smallImage": "img/portfolio/rush.jpeg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/euratechRSBLM.jpg",
+      "smallImage": "img/portfolio/euratechRSBLM.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/euratech2.jpg",
+      "smallImage": "img/portfolio/euratech2.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/eurotechRBX.jpg",
+      "smallImage": "img/portfolio/eurotechRBX.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/mairieRBX.jpg",
+      "smallImage": "img/portfolio/mairieRBX.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/10.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/menouar.png",
+      "name": "Menouar",
+      "job": "Chef de projet"
+    },
+    {
+      "img": "img/team/alassane.png",
+      "name": "Alassane",
+      "job": "Data Analyst"
+    },
+    {
+      "img": "img/team/teddy.jpg",
+      "name": "Teddy Williot",
+      "job": "Data Scientist"
+    },
+    {
+      "img": "img/team/badis.png",
+      "name": "Badis djerou",
+      "job": "Data Scientist"
+    }
+  ],
+  "Contact": {
+    "address": "france",
+    "phone": "0663631535",
+    "email": "iavenir@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Chatbot intelligent",
+      "text": "Un chatbot interactif qui guide les élèves et étudiants à travers les étapes de leur orientation scolaire."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Quiz d'orientation",
+      "text": "Un quiz ludique et précis pour aider les utilisateurs à découvrir les parcours scolaires et professionnels qui leur correspondent le mieux."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": " Mise en relation avec des recruteurs",
+      "text": "Des opportunités directes pour entrer en contact avec des recruteurs et découvrir des offres de formation et de stages adaptées à votre profil."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Suivi personnalisé",
+      "text": "Un suivi adapté pour chaque étudiant, afin de l’accompagner tout au long de son parcours, avec des rappels et des ressources utiles en fonction de son évolution."
+    }
+  ]
+}
