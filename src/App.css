@@ -1,4 +1,4 @@
-@media screen and (max-width: 410px) {
+@media screen and (max-width: 420px) {
   .logo a {
     width: 55%;
     margin-left: 20%;
@@ -12,6 +12,10 @@
     width: 108%;
     padding: 15px;
   }
+  #features .row {
+    padding: 15px;
+    width: 108%;
+  } 
   #about,
   #services,
   #testimonials,
