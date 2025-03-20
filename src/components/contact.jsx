@@ -21,7 +21,7 @@ export const Contact = (props) => {
     e.preventDefault();
     console.log(name, email, message);
     emailjs
-      .sendForm("service_gtu7foi", "ejs-test-mail-service__", e.target, "ey7n1XVRK6bH-gM4K")
+      .sendForm("service_gtu7foi", "template_o1v26im", e.target, "ey7n1XVRK6bH-gM4K")
       .then(
         (result) => {
           console.log("Message envoyé : ",result.text);
@@ -88,8 +88,7 @@ export const Contact = (props) => {
                   <p className="help-block text-danger"></p>
                 </div>
                 <div id="success"></div>
-                <button type="submit" className="btn btn-custom btn-lg"
-                onChange={handleSubmit}>
+                <button type="submit" className="btn btn-custom btn-lg" onChange={handleSubmit}>
                   Envoyer
                 </button>
               </form>
