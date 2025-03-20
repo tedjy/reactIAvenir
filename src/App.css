@@ -8,13 +8,11 @@
   }
   
   #features {
-    padding: 15px;
-    width: 108%;
-    padding: 15px;
+    width: 111%;
   }
   #features .row {
-    padding: 15px;
-    width: 108%;
+    padding: 10px;
+ 
   } 
   #about,
   #services,
