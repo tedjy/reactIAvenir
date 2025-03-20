@@ -21,14 +21,14 @@ export const Contact = (props) => {
     e.preventDefault();
     console.log(name, email, message);
     emailjs
-      .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_PUBLIC_KEY")
+      .sendForm("service_gtu7foi", "service_gtu7foi", e.target, "ey7n1XVRK6bH-gM4K")
       .then(
         (result) => {
-          console.log(result.text);
+          console.log("Message envoyé : ",result.text);
           clearState();
         },
         (error) => {
-          console.log(error.text);
+          console.log("Erreur",error.text);
         }
       );
   };
