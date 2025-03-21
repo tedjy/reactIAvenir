@@ -20,32 +20,32 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Keskia",
       "largeImage": "img/portfolio/ProgrammeKESKIA.jpg",
       "smallImage": "img/portfolio/ProgrammeKESKIA.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Keskia",
       "largeImage": "img/portfolio/rush.jpeg",
       "smallImage": "img/portfolio/rush.jpeg"
     },
     {
-      "title": "Project Title",
+      "title": "Euratechnologie",
       "largeImage": "img/portfolio/euratechRSBLM.jpg",
       "smallImage": "img/portfolio/euratechRSBLM.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Euratechnologie",
       "largeImage": "img/portfolio/euratech2.jpg",
       "smallImage": "img/portfolio/euratech2.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Euratechnologie",
       "largeImage": "img/portfolio/eurotechRBX.jpg",
       "smallImage": "img/portfolio/eurotechRBX.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Mairie de Roubaix",
       "largeImage": "img/portfolio/mairieRBX.jpg",
       "smallImage": "img/portfolio/mairieRBX.jpg"
     }
@@ -138,8 +138,8 @@
   ],
   "Contact": {
     "address": "france",
-    "phone": "0663631535",
-    "email": "iavenir@gmail.com",
+    "phone": "0781441759",
+    "email": "iavenir.contact1@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
