@@ -32,7 +32,7 @@
 @media screen and (max-width: 1479px) {
   #contact .container {
     width: 90%;
-  }
+  }()
 }
 
 @media screen and (max-width: 363px) {
@@ -42,5 +42,8 @@
   }
   #features .row  {
     padding: 0px;
+  }
+  #features h2 {
+    padding-left: 0px;
   }
 }
