@@ -23,7 +23,7 @@ const BouncingLogo = () => {
     key={Math.random()}
       animate={{ y: [0, -35, 0] }} // Effet de rebond global
       transition={{ repeat: Infinity, repeatType: "loop", duration: 1.4, ease: "easeInOut" }}
-      style={{  display: "flex", justifyContent: "center",height:"20vh", alignItems: "center", marginTop:"300px"}}
+      style={{  display: "flex", justifyContent: "center",height:"20vh", alignItems: "center", marginTop:"250px"}}
     >
       <svg width="100" height="400" viewBox="0 0 150 400" preserveAspectRatio="xMidYMid meet">
         {/* Tête ajoutée sur le ressort */}
