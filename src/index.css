@@ -125,7 +125,8 @@ code {
 }
 
 .slide img {
-  width: 120px;
+  width: 200px;
+  height: 110px;
   border: 0.1px rgba(0, 0, 0, 0.616) solid;
-  object-fit: cover;
+  object-fit: contain;
 }
