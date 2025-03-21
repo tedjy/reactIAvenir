@@ -47,3 +47,9 @@
     padding: 0px;
   }
 }
+
+.sliderContent {
+  display: flex;
+  width: 100%;
+}
+

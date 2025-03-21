@@ -69,3 +69,17 @@ code {
 #features {
   padding-top: 90px;
 }
+
+
+.cardsLine {
+  padding: 25px;
+}
+
+#Slider .thumbnail {
+  width: 250px;
+  height: 135px;
+}
+
+#Slider .thumbnail img {
+  height: 120px;
+}

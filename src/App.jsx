@@ -10,6 +10,7 @@ import { Team } from "./components/Team";
 import { Contact } from "./components/contact";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
+import { InfiniteSlider } from "./components/slider";
 
 import "./App.css";
 
@@ -32,6 +33,7 @@ const App = () => {
       <About data={landingPageData.About} />
       <Gallery data={landingPageData.Gallery} />
       <Team data={landingPageData.Team} />
+      <InfiniteSlider data={landingPageData.Slider}/>
       <Contact data={landingPageData.Contact} />
     </div>
   );

@@ -165,5 +165,12 @@
       "title": "Suivi personnalisé",
       "text": "Un suivi adapté pour chaque étudiant, afin de l’accompagner tout au long de son parcours, avec des rappels et des ressources utiles en fonction de son évolution."
     }
+  ],
+  "Slider": [
+    { "name": "Asus", "img": "img/entreprises/asus.png" },
+    { "name": "Grdf", "img": "img/entreprises/grdf.png" },
+    { "name": "keskia", "img": "img/entreprises/keskia.png" },
+    { "name": "thales", "img": "img/entreprises/thales.png" },
+    { "name": "Nestlé", "img": "img/entreprises/nestlé.png" }
   ]
 }
