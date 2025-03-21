@@ -28,3 +28,9 @@
     width: 110%;
   }
 }
+
+@media screen and (max-width: 1479px) {
+  #contact .container {
+    width: 80%;
+  }
+}
