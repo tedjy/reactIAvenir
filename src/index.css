@@ -71,15 +71,61 @@ code {
 }
 
 
-.cardsLine {
-  padding: 25px;
+
+
+/* Conteneur principal */
+.slider-container {
+  text-align: center;
+  background-color: #f3f3f3;
+  padding: 30px 0;
+  overflow: hidden;
+  width: 100%;
 }
 
-#Slider .thumbnail {
-  width: 250px;
-  height: 135px;
+
+
+/* Titre */
+.section-title h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
 }
 
-#Slider .thumbnail img {
+/* Wrapper qui masque le débordement */
+.slider-wrapper {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+/* Piste contenant les logos */
+.slider-track {
+  display: flex;
+  width: 200%; /* On double la largeur pour le scroll infini */
+  animation: scroll 30s linear infinite;
+  padding: 10px;
+}
+
+/* Animation de défilement */
+@keyframes scroll {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+/* Style des logos */
+.slide {
+  display: flex;
+  justify-content: center;
+  min-width: 150px;
+  padding: 10px;
   height: 120px;
+}
+
+.slide img {
+  width: 120px;
+  border: 0.1px rgba(0, 0, 0, 0.616) solid;
+  object-fit: contain;
 }

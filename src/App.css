@@ -19,6 +19,9 @@
   #testimonials,
   #team,
   #contact,
+  #slider {
+    width: 100%;
+  }
   
   #footer {
     width: 100%;
@@ -27,6 +30,7 @@
   #portfolio {
     width: 100%;
   }
+  
 }
 
 @media screen and (max-width: 1479px) {
@@ -46,10 +50,13 @@
   .section-title {
     padding: 0px;
   }
+  /* Piste contenant les logos */
+.slider-track {
+  display: flex;
+  width: 200%; /* On double la largeur pour le scroll infini */
+  animation: scroll 10s linear infinite;
+  padding: 10px;
+}
 }
 
-.sliderContent {
-  display: flex;
-  width: 100%;
-}
 
