@@ -43,7 +43,7 @@
   #features .row  {
     padding: 0px;
   }
-  #features .section-title {
-    padding-left: 0px;
+  .section-title {
+    padding: 0px;
   }
 }
