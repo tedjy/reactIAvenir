@@ -34,3 +34,9 @@
     width: 90%;
   }
 }
+
+@media screen and (max-width: 356px) {
+  #header .row {
+    margin-top: 250px;
+  }
+}
