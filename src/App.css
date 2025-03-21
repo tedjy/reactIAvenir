@@ -12,7 +12,7 @@
   }
   #features .row {
     padding: 10px;
- 
+
   } 
   #about,
   #services,
@@ -32,10 +32,10 @@
 @media screen and (max-width: 1479px) {
   #contact .container {
     width: 90%;
-  }()
+  }
 }
 
-@media screen and (max-width: 363px) {
+@media screen and (max-width: 364px) {
 
   #header p {
     padding-left: 10px;

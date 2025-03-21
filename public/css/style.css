@@ -143,6 +143,13 @@ hr {
 .section-title {
   margin-bottom: 70px;
 }
+@media screen and (max-width: 364px) {
+
+  .section-title {
+    padding: 0px;
+  }
+}
+
 .section-title h2 {
   position: relative;
   margin-top: 10px;
