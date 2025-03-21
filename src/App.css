@@ -4,11 +4,11 @@
     margin-left: 20%;
   }
   #header {
-      width: 115%;
+      width: 100%;
   }
   
   #features {
-    width: 111%;
+    width: 100%;
   }
   #features .row {
     padding: 10px;
@@ -21,11 +21,11 @@
   #contact,
   
   #footer {
-    width: 111%;
+    width: 100%;
   }
 
   #portfolio {
-    width: 110%;
+    width: 100%;
   }
 }
 
