@@ -62,3 +62,7 @@ code {
   object-fit: cover;
 }
 
+#contact .container {
+  width: 80%;
+}
+
