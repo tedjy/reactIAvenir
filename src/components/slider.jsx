@@ -1,5 +1,5 @@
 import React from "react";
-import { motion } from "framer-motion";
+
 
 export const InfiniteSlider = (props) => {
   if (!props.data) return <div>loading...</div>;
