@@ -35,8 +35,12 @@
   }
 }
 
-/* @media screen and (max-width: 356px) {
-  #header .row  {
-    margin-top: 250px;
+@media screen and (max-width: 356px) {
+
+  #header p {
+    padding-left: 10px;
   }
-} */
+  #features .row  {
+    padding: 0px;
+  }
+}
