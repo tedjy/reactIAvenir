@@ -4,7 +4,7 @@ import React from "react";
 export const InfiniteSlider = (props) => {
   if (!props.data) return <div>loading...</div>;
 
-  const Slider = [...props.data, ...props.data , ...props.data]; // duplication pour le scroll infini
+  const Slider = [...props.data, ...props.data , ...props.data, ...props.data]; // duplication pour le scroll infini
 
   return (
     <div id="slider" className="slider-container">

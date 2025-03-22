@@ -102,7 +102,7 @@ code {
 .slider-track {
   display: flex;
   width: 300%; /* On double la largeur pour le scroll infini */
-  animation: scroll 15s linear infinite;
+  animation: scroll 55s linear infinite;
   padding: 10px;
 }
 
