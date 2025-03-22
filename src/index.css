@@ -95,6 +95,7 @@ code {
   width: 100%;
   overflow: hidden;
   position: relative;
+  min-width: 380%;
 }
 
 /* Piste contenant les logos */
