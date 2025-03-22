@@ -95,14 +95,14 @@ code {
   width: 100%;
   overflow: hidden;
   position: relative;
-  min-width: 380%;
+  
 }
 
 /* Piste contenant les logos */
 .slider-track {
   display: flex;
-  width: 300%; /* On double la largeur pour le scroll infini */
-  animation: scroll 55s linear infinite;
+  min-width: 380%;
+  animation: scroll 10s linear infinite;
   padding: 10px;
 }
 
@@ -126,7 +126,7 @@ code {
 }
 
 .slide img {
-  width: 200px;
+  width: 150px;
   height: 110px;
   border: 0.1px rgba(0, 0, 0, 0.616) solid;
   object-fit: contain;
