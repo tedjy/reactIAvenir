@@ -52,8 +52,8 @@
   }
   /* Piste contenant les logos */
 .slider-track {
-  animation: scroll 5s linear infinite;
-  width: 300%; /* On double la largeur pour le scroll infini */
+  animation: scroll 10s linear infinite;
+  min-width: 500%;
   padding: 10px;
 }
 .slider-container {
