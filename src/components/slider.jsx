@@ -22,6 +22,11 @@ export const InfiniteSlider = (props) => {
                 <img src={d.img} alt={d.name} />
               </div>
             ))}
+            {Slider.concat(props.data).map((d, i) => (
+              <div key={`${d.name}-${i}`} className="slide">
+                <img src={d.img} alt={d.name} />
+              </div>
+            ))}
           </div>
         </div>
       </div>
