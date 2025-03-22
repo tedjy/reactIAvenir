@@ -61,6 +61,10 @@
   width: 150px;
 
 }
+
+.slide {
+  min-width: none;
+}
 }
 
 
