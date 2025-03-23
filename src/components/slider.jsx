@@ -10,7 +10,7 @@ export const InfiniteSlider = (props) => {
     <div id="slider" className="slider-container">
       <div className="container">
         <div className="section-title">
-          <h2>Entreprises partenaires</h2>
+          <h2>Partenaires</h2>
         </div>
 
         {/* Conteneur du slider */}
