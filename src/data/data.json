@@ -167,10 +167,11 @@
     }
   ],
   "Slider": [
-    { "name": "Asus", "img": "img/entreprises/asus.png" },
-    { "name": "Grdf", "img": "img/entreprises/grdf.png" },
-    { "name": "keskia", "img": "img/entreprises/keskia.png" },
-    { "name": "thales", "img": "img/entreprises/thales.png" },
-    { "name": "Nestlé", "img": "img/entreprises/nestlé.png" }
+    { "img": "img/entreprises/grdf.png" },
+    { "img": "img/entreprises/asus.png" },
+    { "img": "img/entreprises/keskia.png" },
+    { "img": "img/entreprises/thales.png" },
+    { "img": "img/entreprises/roubaix.jpeg" },
+    { "img": "img/entreprises/nestlé.png" }
   ]
 }
