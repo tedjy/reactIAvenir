@@ -20,12 +20,12 @@
   },
   "Gallery": [
     {
-      "title": "Kesk'ia",
+      "title": "Keskia",
       "largeImage": "img/portfolio/ProgrammeKESKIA.jpg",
       "smallImage": "img/portfolio/ProgrammeKESKIA.jpg"
     },
     {
-      "title": "Kesk'ia",
+      "title": "Keskia",
       "largeImage": "img/portfolio/rush.jpeg",
       "smallImage": "img/portfolio/rush.jpeg"
     },
@@ -139,7 +139,7 @@
   "Contact": {
     "address": "Euratechnologie",
     "phone": "0781441759",
-    "email": "iavenir.contact1@gmail.com",
+    "email": "iavenir59100@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
@@ -167,11 +167,10 @@
     }
   ],
   "Slider": [
-    { "img": "img/entreprises/grdf.png" },
-    { "img": "img/entreprises/asus.png" },
-    { "img": "img/entreprises/keskia.png" },
-    { "img": "img/entreprises/thales.png" },
-    { "img": "img/entreprises/roubaix.jpg" },
-    { "img": "img/entreprises/nestlé.png" }
+    { "name": "Asus", "img": "img/entreprises/asus.png" },
+    { "name": "Grdf", "img": "img/entreprises/grdf.png" },
+    { "name": "keskia", "img": "img/entreprises/keskia.png" },
+    { "name": "thales", "img": "img/entreprises/thales.png" },
+    { "name": "Nestlé", "img": "img/entreprises/nestlé.png" }
   ]
 }
